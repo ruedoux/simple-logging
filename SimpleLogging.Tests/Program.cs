@@ -1,4 +1,4 @@
-﻿namespace Qwaitumin.Logging.Tests;
+﻿namespace SimpleLogging.Tests;
 
 public static class Program
 {

@@ -1,6 +1,6 @@
-# Logging
+# SimpleLogging
 
-Lightweight logging library for C#.
+Lightweight, single file logging library for C#.
 
 ## Features
 
@@ -10,8 +10,14 @@ Lightweight logging library for C#.
 
 ## Installation
 
-- Download or clone the repository.
-- Add a reference to `.csproj` in your main project.
+You can include SimpleLogging into your project in two ways:
+
+1. **Add as a Project Reference:**
+   - Download or clone the SimpleLogging repository.
+   - Add a reference to `SimpleLogging/SimpleLogging.csproj` in your main project.
+
+2. **Include the Source File:**
+   - Copy the `SimpleLogging/SimpleLogging.cs` file into your project directory.
 
 ## Usage
 

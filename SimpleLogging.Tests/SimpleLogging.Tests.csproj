@@ -1,7 +1,7 @@
 ﻿<Project Sdk="Microsoft.NET.Sdk">
 
   <ItemGroup>
-    <ProjectReference Include="..\Logging\Qwaitumin.Logging.csproj" />
+    <ProjectReference Include="..\SimpleLogging\SimpleLogging.csproj" />
   </ItemGroup>
 
   <PropertyGroup>
